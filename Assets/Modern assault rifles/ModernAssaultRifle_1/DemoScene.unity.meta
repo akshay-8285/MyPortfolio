@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4c624bceeb8d5ad469f42a298b0a5aff
+timeCreated: 1521978861
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114920
+  packageName: PBR Modern Assault Rifle
+  packageVersion: 1.1
+  assetPath: Assets/Modern assault rifles/ModernAssaultRifle_1/DemoScene.unity
+  uploadId: 240195
